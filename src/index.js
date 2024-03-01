@@ -1,3 +1,4 @@
+import './css/style.css';
 
 const sliders = [...document.querySelectorAll('.main-block-four-item')]
 const number = document.querySelector('.main-block-four-control-number')
