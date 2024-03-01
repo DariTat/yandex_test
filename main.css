@@ -260,6 +260,11 @@ header {
     border-radius: 70%;
 }
 
+.main-block-img {
+    width: 530px;
+    height: 609px;
+}
+
 .main-block-two {
     margin-top: 54px;
     display: flex;
